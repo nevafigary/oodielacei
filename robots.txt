@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shuukohni.12inspect.nl/sitemap.xml
